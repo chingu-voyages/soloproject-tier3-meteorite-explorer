@@ -1,4 +1,4 @@
-# Chingu Voyage Solo Project (Tier 3): Meteorite Explorer
+# Chingu Solo Project - Tier 3 - Meteorite Explorer
 
 ![Meteorite Explorer Screenshot](./assets/meteorite-explorer-screenshot.png)
 
